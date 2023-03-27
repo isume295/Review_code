@@ -1,0 +1,29 @@
+#image{
+    max-width: 120%;
+    height: 60%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;  
+}
+#img-div{
+    background-color: aliceblue;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 200;
+    display: block;
+}
+
+#main{
+    background-color: darkgray;
+}
+#title, p{
+    text-align: center;
+}
+#tribute-info{
+    text-align: center ;
+}
+a{
+    color:blue;
+}
+
+
